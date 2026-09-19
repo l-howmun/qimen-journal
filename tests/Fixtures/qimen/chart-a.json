@@ -1,0 +1,82 @@
+{
+    "_source": "Transcribed from a reference software hour chart for 2026-09-18 16:14. The screenshot itself is not kept in this repository.",
+    "_verified": "Every field below was read off the screenshot by eye and independently reproduced by kinqimen 0.0.6.6 pan(2). 33/33 agreement.",
+    "at": "2026-09-18 16:14:00",
+    "dayPillar": "乙未",
+    "hourPillar": "甲申",
+    "solarTerm": "白露",
+    "_juSolarTerm_note": "The astronomical term is 白露, but 置閏法 is in 超神 and looks the 局 up under the NEXT term. Derived, not read off the screenshot; the screenshot only proves the resulting 局 is 7.",
+    "juSolarTerm": "秋分",
+    "dun": "陰遁",
+    "ju": 7,
+    "yuan": "上元",
+    "xunShou": "甲申",
+    "dutyStar": "天芮",
+    "dutyGate": "死門",
+    "fuYin": true,
+    "palaces": {
+        "1": {
+            "earthStem": "丁",
+            "heavenStems": ["丁"],
+            "stars": ["天蓬"],
+            "gate": "休門",
+            "deity": "玄武"
+        },
+        "2": {
+            "earthStem": "癸",
+            "heavenStems": ["癸"],
+            "stars": ["天芮", "天禽"],
+            "gate": "死門",
+            "deity": "值符"
+        },
+        "3": {
+            "earthStem": "壬",
+            "heavenStems": ["壬"],
+            "stars": ["天沖"],
+            "gate": "傷門",
+            "deity": "六合"
+        },
+        "4": {
+            "earthStem": "辛",
+            "heavenStems": ["辛"],
+            "stars": ["天輔"],
+            "gate": "杜門",
+            "deity": "太陰"
+        },
+        "5": {
+            "earthStem": "庚",
+            "heavenStems": ["庚"],
+            "stars": [],
+            "gate": null,
+            "deity": null
+        },
+        "6": {
+            "earthStem": "己",
+            "heavenStems": ["己"],
+            "stars": ["天心"],
+            "gate": "開門",
+            "deity": "九地"
+        },
+        "7": {
+            "earthStem": "戊",
+            "heavenStems": ["戊"],
+            "stars": ["天柱"],
+            "gate": "驚門",
+            "deity": "九天"
+        },
+        "8": {
+            "earthStem": "乙",
+            "heavenStems": ["乙"],
+            "stars": ["天任"],
+            "gate": "生門",
+            "deity": "白虎"
+        },
+        "9": {
+            "earthStem": "丙",
+            "heavenStems": ["丙"],
+            "stars": ["天英"],
+            "gate": "景門",
+            "deity": "螣蛇"
+        }
+    }
+}
