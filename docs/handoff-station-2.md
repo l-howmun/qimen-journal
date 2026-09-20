@@ -24,7 +24,8 @@ exit 0. Nothing else counts as done. A passing description is not a passing test
 | `tests/Pest.php` | `qimenFixture()` and `enumValues()` helpers |
 
 **The fixtures are ground truth.** They were transcribed from reference software hour
-charts and independently reproduced by the Python library `kinqimen`, 66 of 66 fields. If your code disagrees with a fixture, your code is wrong. Never
+charts and independently reproduced by the Python library `kinqimen`, 87 of 87
+palace-level field values. If your code disagrees with a fixture, your code is wrong. Never
 edit a fixture or a test to make something pass. If you believe a fixture is wrong,
 stop and say so rather than changing it.
 

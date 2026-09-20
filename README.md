@@ -55,9 +55,13 @@ software does not say which one it implements.
 
 Two hour charts from an established commercial Qi Men program were transcribed by
 hand into fixtures, then independently reproduced by
-[`kinqimen`](https://github.com/kentang2017/kinqimen) 0.0.6.6 under 置閏法. All 66
-fields agree across both charts: nine earth stems, the heaven plate, nine stars,
-eight gates, eight deities.
+[`kinqimen`](https://github.com/kentang2017/kinqimen) 0.0.6.6 under 置閏法.
+
+**All 87 palace-level field values agree**, 43 from one chart and 44 from the other.
+Counted per value rather than per palace, because the two are not the same thing
+here: 天禽 rides with 天芮 so one palace carries two stars, palace 5 holds no gate and
+no deity, and in the rotating chart one palace carries two heaven stems. Both pillars
+and the chart-level 遁, 局, 元, 旬首, 值符 and 值使 agree as well.
 
 `kinqimen` is this project's accepted oracle. Where the two ever disagree, `kinqimen`
 wins by definition.

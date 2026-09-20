@@ -532,7 +532,12 @@ Every palace of both charts under `pan(2)` was compared against the screenshots:
 | Gates | 8/8 | 8/8 |
 | Deities | 8/8 | 8/8 |
 
-**66 of 66.** No discrepancies.
+**87 of 87 palace-level field values.** No discrepancies. Chart A contributes 43 and
+chart B 44.
+
+Counted per value rather than per palace, because they differ: 天禽 rides with 天芮 so
+one palace carries two stars, palace 5 holds no gate and no deity, and chart B carries
+two heaven stems in the palace 天禽 lands in.
 
 Chart B's gate row matters most: `kinqimen` places 死門 in palace 6 (乾), which is
 what the **corrected** rule in [Section 7](#7-八門-gates-rotation) predicts. The
@@ -627,7 +632,7 @@ generated on demand and turned into golden tests today.
 this engine follows `kinqimen` and is by definition wrong about the reference charts.
 
 The risk is bounded by what was actually measured: across the two real screenshots,
-all 66 fields agree. That is two charts, both 陰遁, both in the same 超神 stretch. The
+all 87 palace-level field values agree. That is two charts, both 陰遁, both in the same 超神 stretch. The
 agreement has never been tested in 陽遁, during 接氣, or across a 芒種/大雪 leap.
 
 If a reference chart ever turns up that contradicts the engine, the fault is most
