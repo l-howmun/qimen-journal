@@ -100,8 +100,12 @@ than the comfortable middle.
 
 ## Requirements
 
-- PHP 8.3+ (developed on 8.5)
+- PHP 8.4.1 – 8.5 (developed on 8.5)
 - Composer
+
+The range is narrower than it looks. The lock pulls Symfony 8.1, which requires
+`>=8.4.1`, and `nette/utils` and `nette/schema` cap out at 8.5. So 8.3 will not
+install and neither will 8.6.
 
 ## Install
 

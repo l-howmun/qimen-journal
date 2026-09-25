@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f3f9756075bbe64471a0da82b5b7ca90",
+    "content-hash": "615a739ab2c07a0d2fc435c1477e7fe2",
     "packages": [
         {
             "name": "6tail/lunar-php",
@@ -10068,7 +10068,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^8.3"
+        "php": "^8.4.1"
     },
     "platform-dev": {},
     "plugin-api-version": "2.9.0"
